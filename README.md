@@ -9,7 +9,7 @@ I love working with robotics and machine learning. My Repositories contain a few
  
 <p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api?username=Teak-Rosewood&show_icons=true&theme=dark&count_private=true" width = 400>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teak-Rosewood&layout=compact&theme=dark&hide_border=true" width = 400>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teak-Rosewood&layout=compact&theme=dark&hide_border=true" width = 300>
 </p>
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Teak-Rosewood/Teak-Rosewood)
