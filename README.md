@@ -1,6 +1,4 @@
-Hey there! I'm Saatwik and welcome to my README
-
-I love working with robotics and machine learning. My Repositories contain a few 
+Hey there! I'm Saatwik
  
 - 🔭 I’m currently working on automating Mars Rover Manipal's Rover for the University Rover Challenge 2023
 - 🌱 I’m currently learning Machine Learning and Deep Learning
