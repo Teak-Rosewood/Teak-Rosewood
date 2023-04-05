@@ -7,9 +7,11 @@ I love working with robotics and machine learning. My Repositories contain a few
 - 👯 I’m looking to collaborate on any kind of machine learning or deep learning projects
 - 📫 You can email me at saatwik.vasishtha@gmail.com or contact me on [Linkedin](https://in.linkedin.com/in/saatwik-vasishtha-974a82148)
  
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Teak-Rosewood&show_icons=true&theme=dark&count_private=true" />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teak-Rosewood&layout=compact&theme=dark&hide_border=true" />
- 
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=Teak-Rosewood&show_icons=true&theme=dark&count_private=true" width = 400>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teak-Rosewood&layout=compact&theme=dark&hide_border=true" width = 400>
+</p>
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/Teak-Rosewood/Teak-Rosewood)
 ![pv](https://pageview.vercel.app/?github_user=Teak-Rosewood)
 <!--
