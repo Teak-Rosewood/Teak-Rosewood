@@ -1,30 +1,13 @@
 Hey there! I'm Saatwik and welcome to my README
+
+I love working with robotics and machine learning. My Repositories contain a few 
  
-- 🔭 I’m currently working on the Navigation Stack for Mars Rover Manipal for the European Rover Challenge Remote Edition which aims are automating the Leo Rover. 
-- 🌱 I’m currently persuing the Deep Learning Specialization by Andrew Ng
+- 🔭 I’m currently working on automating Mars Rover Manipal's Rover for the University Rover Challenge 2023
+- 🌱 I’m currently learning Machine Learning and Deep Learning
+- 👯 I’m looking to collaborate on any kind of machine learning or deep learning projects
+- 📫 You can email me at saatwik.vasishtha@gmail.com or contact me at +91 97402 25444
  
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Teak-Rosewood&show_icons=true&theme=radical&count_private=true" />
-
-## Skills
-
-## Repositories 
- 
-## Experience
-
-### Mars Rover Manipal 
- 
-- Robot Operating System (ROS)
-Building an entire navigaiton on roscpp and package implmentation of robot_localization, global_planner, move_base.
-- OpenCV
-Object detection using haugh circles.
-- Sensor Interfacing 
-Using the raspberry pie to interface multiple sensors like the ZED2 Stereo Camera.
-- Machine Learning 
-- URDF File Edition
-Building a 4 wheeled robot using URDF Files. 
-- Socket Programming 
-Implementation of data transfer using UART, SPI, I2C, TCP/IP and UDP
-
 <!--
 **Blank-wastaken/Blank-wastaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
