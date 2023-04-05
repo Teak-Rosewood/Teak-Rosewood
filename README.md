@@ -5,7 +5,7 @@ I love working with robotics and machine learning. My Repositories contain a few
 - 🔭 I’m currently working on automating Mars Rover Manipal's Rover for the University Rover Challenge 2023
 - 🌱 I’m currently learning Machine Learning and Deep Learning
 - 👯 I’m looking to collaborate on any kind of machine learning or deep learning projects
-- 📫 You can email me at saatwik.vasishtha@gmail.com or contact me at +91 97402 25444
+- 📫 You can email me at saatwik.vasishtha@gmail.com or contact me at [Linkedin](https://in.linkedin.com/in/saatwik-vasishtha-974a82148)
  
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Teak-Rosewood&show_icons=true&theme=radical&count_private=true" />
  
