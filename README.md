@@ -8,6 +8,9 @@ I love working with robotics and machine learning. My Repositories contain a few
 - 📫 You can email me at saatwik.vasishtha@gmail.com or contact me at +91 97402 25444
  
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Teak-Rosewood&show_icons=true&theme=radical&count_private=true" />
+ 
+![GitHub last commit](https://img.shields.io/github/last-commit/Teak-Rosewood/Teak-Rosewood)
+![pv](https://pageview.vercel.app/?github_user=Teak-Rosewood)
 <!--
 **Blank-wastaken/Blank-wastaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
