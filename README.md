@@ -1,8 +1,8 @@
 Hey there! I'm Saatwik
  
-- 🔭 I’m currently working on automating Mars Rover Manipal's Rover for the University Rover Challenge 2023
-- 🌱 I’m currently learning Machine Learning and Deep Learning
-- 👯 I’m looking to collaborate on any kind of machine learning or deep learning projects
+- 🔭 I’m currently the Technical Head at Mars Rover Manipal
+- 🌱 I’m learning full-stack development, AI/ML
+- 👯 I’m also aiming for GSOC 2024, along with a few up-and-coming projects in AI
 - 📫 You can email me at saatwik.vasishtha@gmail.com or contact me on [Linkedin](https://in.linkedin.com/in/saatwik-vasishtha-974a82148)
  
 <p align="center"> 
