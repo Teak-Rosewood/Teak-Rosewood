@@ -13,6 +13,6 @@
 - 📫 How to reach me **saatwik.vasishtha@gmail.com**
 
 <p style="display: flex; justify-content: space-between; height: 200px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?&hide=Jupyter Notebook&theme=tokyonight&username=teak-rosewood&show_icons=true&locale=en&layout=compact" alt="teak-rosewood" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?&hide=Jupyter%20Notebook&theme=tokyonight&username=teak-rosewood&show_icons=true&locale=en&layout=compact" alt="teak-rosewood" />
     <img src="https://github-readme-stats.vercel.app/api?theme=tokyonight&username=teak-rosewood&show_icons=true&locale=en" alt="teak-rosewood" />
 </p>
