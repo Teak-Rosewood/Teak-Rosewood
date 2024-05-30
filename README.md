@@ -1,28 +1,18 @@
-Hey there! I'm Saatwik
- 
-- 🔭 I’m currently the Technical Head at Mars Rover Manipal
-- 🌱 I’m learning full-stack development, AI/ML
-- 👯 I’m also aiming for GSOC 2024, along with a few up-and-coming projects in AI
-- 📫 You can email me at saatwik.vasishtha@gmail.com or contact me on [Linkedin](https://in.linkedin.com/in/saatwik-vasishtha-974a82148)
- 
-<p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=Teak-Rosewood&show_icons=true&theme=dark&count_private=true" width = 400>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teak-Rosewood&layout=compact&theme=dark&hide_border=true" width = 300>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&random=false&width=435&lines=Hey!+I'm+Saatwik!)](https://git.io/typing-svg)  
+
+### I am a final year Data Science undergraduate and Manipal Institute of Technology
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=teak-rosewood&label=Profile%20views&color=0e75b6&style=flat" alt="teak-rosewood" /> </p>
+
+- 🔭 As a part of GSoC 24 I am currently working on [TensorMap for C2SI](https://summerofcode.withgoogle.com/programs/2024/projects/rKXxuFox)
+
+- 👯 I am currently the Technical Head [Mars Rover Manipal](https://www.marsrovermanipal.com/)
+
+- 🤝 I am also working on Effective LLM Tokenization for Smart Home events as a part of the [Samsung PRISM Project](https://www.samsungprism.com/)
+
+- 📫 How to reach me **saatwik.vasishtha@gmail.com**
+
+<p style="display: flex; justify-content: space-between; height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?&hide=Jupyter Notebook&theme=tokyonight&username=teak-rosewood&show_icons=true&locale=en&layout=compact" alt="teak-rosewood" />
+    <img src="https://github-readme-stats.vercel.app/api?theme=tokyonight&username=teak-rosewood&show_icons=true&locale=en" alt="teak-rosewood" />
 </p>
-
-![GitHub last commit](https://img.shields.io/github/last-commit/Teak-Rosewood/Teak-Rosewood)
-![pv](https://pageview.vercel.app/?github_user=Teak-Rosewood)
-<!--
-**Blank-wastaken/Blank-wastaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
